@@ -1,5 +1,6 @@
 # Social Complexity and Complex Systems in Archaeology
 This repository contains all code for analysis and graphs from the book "Social Complexity and Complex Systems in Archaeology" published with Routledge in 2021.
+https://www.taylorfrancis.com/books/social-complexity-complex-systems-archaeology-dries-daems/10.4324/9781003036968
 
 Datasets were used from:
 - The Sagalassos Archaeological Research Project, created by the author
